@@ -1,0 +1,9 @@
+baseURL = "https://5000164.github.io/study-english/"
+hasCJKLanguage = true
+languageCode = "ja"
+title = "英語勉強用ブログ"
+theme = "divided"
+publishDir = "docs"
+
+[permalinks]
+post = "/:sections/:filename/"

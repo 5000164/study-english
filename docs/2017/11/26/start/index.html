@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=600">
+    <style type="text/css">html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-size: 62.5%;
+    font-family: sans-serif;
+    font-feature-settings: "palt";
+    letter-spacing: 0.02rem;
+    overflow-x: hidden;
+}
+
+@media (max-width: 600px) {
+    html {
+        font-size: 75%;
+    }
+}
+
+body {
+    width: 600px;
+    margin: auto;
+    font-size: 2rem;
+    line-height: 1.73;
+    color: hsl(235, 20%, 30%);
+    background-color: hsl(25, 50%, 99%);
+}
+
+header {
+    padding: 20px;
+    letter-spacing: -0.2rem;
+}
+
+footer {
+    padding: 20px;
+    text-align: right;
+    letter-spacing: -0.2rem;
+}
+
+.articles {
+    list-style: none;
+    margin: 0 20px;
+    padding: 0;
+}
+
+.articles > li {
+    margin: 40px 0;
+}
+
+.articles > li > a {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 2rem;
+}
+
+.articles > li > a > div:first-child {
+    white-space: nowrap;
+}
+
+.articles > li > a > div:last-child {
+    white-space: pre-wrap;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+
+article {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 20px;
+}
+
+h1 {
+    margin: 10px 0 20px;
+    font-size: 2.4rem;
+    text-align: center;
+}
+
+h2 {
+    margin: 80px 0 20px;
+    font-size: 2.2rem;
+    text-align: center;
+}
+
+h3 {
+    margin: 80px 0 20px;
+    font-size: 1.8rem;
+    font-weight: normal;
+    text-align: center;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.highlighttable {
+    table-layout: fixed;
+    width: 600px;
+    background-color: #272822;
+    border-spacing: 0;
+}
+
+@media (min-width: 601px) {
+    .highlighttable {
+        margin-left: -1000%;
+        margin-right: -1000%;
+        padding-left: 1000%;
+        padding-right: 1000%;
+    }
+}
+
+@media (max-width: 600px) {
+    .highlighttable {
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+}
+
+.highlighttable .linenos {
+    width: 22px;
+    padding-left: 2px;
+    padding-right: 6px;
+    color: #f8f8f2;
+    text-align: right;
+}
+
+.highlighttable .code {
+    width: 566px;
+    padding-left: 2px;
+    padding-right: 2px;
+    overflow-x: scroll;
+}
+.highlight .hll { background-color: #49483e }
+.highlight  { background: #272822; color: #f8f8f2 }
+.highlight .c { color: #75715e } /* Comment */
+.highlight .err { color: #960050; background-color: #1e0010 } /* Error */
+.highlight .k { color: #66d9ef } /* Keyword */
+.highlight .l { color: #ae81ff } /* Literal */
+.highlight .n { color: #f8f8f2 } /* Name */
+.highlight .o { color: #f92672 } /* Operator */
+.highlight .p { color: #f8f8f2 } /* Punctuation */
+.highlight .ch { color: #75715e } /* Comment.Hashbang */
+.highlight .cm { color: #75715e } /* Comment.Multiline */
+.highlight .cp { color: #75715e } /* Comment.Preproc */
+.highlight .cpf { color: #75715e } /* Comment.PreprocFile */
+.highlight .c1 { color: #75715e } /* Comment.Single */
+.highlight .cs { color: #75715e } /* Comment.Special */
+.highlight .gd { color: #f92672 } /* Generic.Deleted */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gi { color: #a6e22e } /* Generic.Inserted */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #75715e } /* Generic.Subheading */
+.highlight .kc { color: #66d9ef } /* Keyword.Constant */
+.highlight .kd { color: #66d9ef } /* Keyword.Declaration */
+.highlight .kn { color: #f92672 } /* Keyword.Namespace */
+.highlight .kp { color: #66d9ef } /* Keyword.Pseudo */
+.highlight .kr { color: #66d9ef } /* Keyword.Reserved */
+.highlight .kt { color: #66d9ef } /* Keyword.Type */
+.highlight .ld { color: #e6db74 } /* Literal.Date */
+.highlight .m { color: #ae81ff } /* Literal.Number */
+.highlight .s { color: #e6db74 } /* Literal.String */
+.highlight .na { color: #a6e22e } /* Name.Attribute */
+.highlight .nb { color: #f8f8f2 } /* Name.Builtin */
+.highlight .nc { color: #a6e22e } /* Name.Class */
+.highlight .no { color: #66d9ef } /* Name.Constant */
+.highlight .nd { color: #a6e22e } /* Name.Decorator */
+.highlight .ni { color: #f8f8f2 } /* Name.Entity */
+.highlight .ne { color: #a6e22e } /* Name.Exception */
+.highlight .nf { color: #a6e22e } /* Name.Function */
+.highlight .nl { color: #f8f8f2 } /* Name.Label */
+.highlight .nn { color: #f8f8f2 } /* Name.Namespace */
+.highlight .nx { color: #a6e22e } /* Name.Other */
+.highlight .py { color: #f8f8f2 } /* Name.Property */
+.highlight .nt { color: #f92672 } /* Name.Tag */
+.highlight .nv { color: #f8f8f2 } /* Name.Variable */
+.highlight .ow { color: #f92672 } /* Operator.Word */
+.highlight .w { color: #f8f8f2 } /* Text.Whitespace */
+.highlight .mb { color: #ae81ff } /* Literal.Number.Bin */
+.highlight .mf { color: #ae81ff } /* Literal.Number.Float */
+.highlight .mh { color: #ae81ff } /* Literal.Number.Hex */
+.highlight .mi { color: #ae81ff } /* Literal.Number.Integer */
+.highlight .mo { color: #ae81ff } /* Literal.Number.Oct */
+.highlight .sa { color: #e6db74 } /* Literal.String.Affix */
+.highlight .sb { color: #e6db74 } /* Literal.String.Backtick */
+.highlight .sc { color: #e6db74 } /* Literal.String.Char */
+.highlight .dl { color: #e6db74 } /* Literal.String.Delimiter */
+.highlight .sd { color: #e6db74 } /* Literal.String.Doc */
+.highlight .s2 { color: #e6db74 } /* Literal.String.Double */
+.highlight .se { color: #ae81ff } /* Literal.String.Escape */
+.highlight .sh { color: #e6db74 } /* Literal.String.Heredoc */
+.highlight .si { color: #e6db74 } /* Literal.String.Interpol */
+.highlight .sx { color: #e6db74 } /* Literal.String.Other */
+.highlight .sr { color: #e6db74 } /* Literal.String.Regex */
+.highlight .s1 { color: #e6db74 } /* Literal.String.Single */
+.highlight .ss { color: #e6db74 } /* Literal.String.Symbol */
+.highlight .bp { color: #f8f8f2 } /* Name.Builtin.Pseudo */
+.highlight .fm { color: #a6e22e } /* Name.Function.Magic */
+.highlight .vc { color: #f8f8f2 } /* Name.Variable.Class */
+.highlight .vg { color: #f8f8f2 } /* Name.Variable.Global */
+.highlight .vi { color: #f8f8f2 } /* Name.Variable.Instance */
+.highlight .vm { color: #f8f8f2 } /* Name.Variable.Magic */
+.highlight .il { color: #ae81ff } /* Literal.Number.Integer.Long */
+</style>
+    <title>英語勉強用ブログを始めた | 英語勉強用ブログ</title>
+    <link href="/favicon.ico" rel="icon">
+    <link href="https://5000164.github.io/study-english/2017/11/26/start/" rel="canonical">
+    <meta name="generator" content="Hugo 0.31" />
+</head>
+<body>
+<header>
+    <a href="https://5000164.github.io/study-english/">英語勉強用ブログ</a>
+</header>
+
+<article>
+    <div>2017-11-26</div>
+    <h1>英語勉強用ブログを始めた</h1>
+    
+
+<h2 id="少しずつ書いていこうと思う">少しずつ書いていこうと思う</h2>
+
+<p>英語について勉強したことのメモを残していく予定。<br />
+手元のメモに残すよりも形になって目に見えた方がモチベーション上がるからブログにした。</p>
+
+</article>
+<footer>
+    <div>菅原 浩</div>
+    <div><a href="https://github.com/5000164/profile">About</a></div>
+</footer>
+
+
+
+</body>
+</html>
+

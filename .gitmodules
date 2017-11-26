@@ -1,0 +1,3 @@
+[submodule "themes/divided"]
+	path = themes/divided
+	url = https://github.com/5000164/divided.git
