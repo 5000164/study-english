@@ -11,7 +11,7 @@ class IndexPage extends Component {
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
 
     return (
-      <Layout location={this.props.location}>
+      <Layout>
         <Helmet>
           <html lang="ja" />
           <meta charSet="utf-8" />
