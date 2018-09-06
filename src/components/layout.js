@@ -7,7 +7,7 @@ const Header = styled.div`
   margin: auto;
 `
 
-class Template extends Component {
+class Layout extends Component {
   render() {
     return (
       <Header>
@@ -20,4 +20,4 @@ class Template extends Component {
   }
 }
 
-export default Template
+export default Layout
