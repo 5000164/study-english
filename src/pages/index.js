@@ -1,11 +1,11 @@
-import React from 'react'
+import React, { Component } from 'react'
 import { graphql, Link } from 'gatsby'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
 
-class IndexPage extends React.Component {
+class IndexPage extends Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
