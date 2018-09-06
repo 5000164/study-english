@@ -12,7 +12,12 @@ class IndexPage extends React.Component {
 
     return (
       <Layout location={this.props.location}>
-        <Helmet htmlAttributes={{ lang: 'ja' }} title={siteTitle} />
+        <Helmet>
+          <html lang="ja" />
+          <meta charSet="utf-8" />
+          <title>{siteTitle}</title>
+          <meta name="description" content="英語勉強用ブログ" />
+        </Helmet>
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
