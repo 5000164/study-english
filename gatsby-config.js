@@ -26,6 +26,7 @@ module.exports = {
         icon: `src/images/icon.png`,
       },
     },
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-feed`,
