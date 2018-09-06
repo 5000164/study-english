@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import { graphql, Link } from 'gatsby'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
-
 import Layout from '../components/layout'
 
 class IndexPage extends Component {
@@ -35,7 +34,7 @@ class IndexPage extends Component {
 export default IndexPage
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query {
     site {
       siteMetadata {
         title
