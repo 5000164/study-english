@@ -30,7 +30,7 @@ module.exports = {
       resolve: `gatsby-plugin-offline`,
       options: {
         modifyUrlPrefix: {
-          rootDir: `study-english/`,
+          rootDir: ``,
         },
       },
     },
