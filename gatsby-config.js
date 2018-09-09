@@ -29,9 +29,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-offline`,
       options: {
-        modifyUrlPrefix: {
-          rootDir: `test`,
-        },
+        globDirectory: `test`,
       },
     },
     {
