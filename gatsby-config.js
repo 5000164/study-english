@@ -15,24 +15,6 @@ module.exports = {
     },
     `gatsby-transformer-remark`,
     {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `英語勉強用ブログ`,
-        short_name: `英語勉強用ブログ`,
-        start_url: `.`,
-        background_color: `#ffffff`,
-        theme_color: `#ffffff`,
-        display: `minimal-ui`,
-        icon: `src/images/icon.png`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-offline`,
-      options: {
-        globDirectory: `.`,
-      },
-    },
-    {
       resolve: `gatsby-plugin-feed`,
       options: {
         feeds: [
@@ -69,6 +51,24 @@ module.exports = {
             output: '/feed.xml',
           },
         ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `英語勉強用ブログ`,
+        short_name: `英語勉強用ブログ`,
+        start_url: `.`,
+        background_color: `#ffffff`,
+        theme_color: `#ffffff`,
+        display: `minimal-ui`,
+        icon: `src/images/icon.png`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-offline`,
+      options: {
+        globDirectory: `.`,
       },
     },
     `gatsby-plugin-react-helmet`,
