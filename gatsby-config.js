@@ -19,7 +19,7 @@ module.exports = {
       options: {
         name: `英語勉強用ブログ`,
         short_name: `英語勉強用ブログ`,
-        start_url: `./`,
+        start_url: `./hoge/`,
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `minimal-ui`,
@@ -30,7 +30,7 @@ module.exports = {
       resolve: `gatsby-plugin-offline`,
       options: {
         modifyUrlPrefix: {
-          rootDir: ``,
+          rootDir: `test`,
         },
       },
     },
