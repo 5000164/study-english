@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     title: `英語勉強用ブログ`,
     description: `英語勉強用ブログ`,
-    siteUrl: `https://5000164.github.io/study-english`,
+    siteUrl: `https://5000164.github.io/study-english/`,
   },
   plugins: [
     {
