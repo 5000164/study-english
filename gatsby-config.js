@@ -19,7 +19,7 @@ module.exports = {
       options: {
         name: `英語勉強用ブログ`,
         short_name: `英語勉強用ブログ`,
-        start_url: `/`,
+        start_url: `/study-english/`,
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `minimal-ui`,
