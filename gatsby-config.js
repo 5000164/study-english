@@ -29,7 +29,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-offline`,
       options: {
-        globDirectory: `test`,
+        globDirectory: `.`,
       },
     },
     {
