@@ -1,0 +1,91 @@
+---
+title: "English words 2018/11/15"
+date: "2018-11-15T18:31:10+11:00"
+---
+
+- modal
+    - adjective: 形式上の
+    - noun: 補助動詞
+- modal verb
+    - noun: (分) 法を表現するのに使用される助動詞 (can または will のような)
+- action
+    - noun: 行動
+- action verb
+    - noun: 行為動詞
+    - はっきりした意思をもって何かを行うことを表す動詞
+- auxliary
+    - noun: 補助
+    - adjective: 補助の
+- auxiliary verb
+    - noun: 助動詞
+- expressions
+    - noun: 表現
+- present
+    - noun: 現在
+    - noun: 与え
+    - noun: 贈り物
+    - adjective: 現行
+    - adjective: 出席している
+    - verb: 与える
+- tense
+    - noun: 時制
+    - verb: 固くなる
+- present tense
+    - noun: 現在形
+- preposition
+    - noun: 前置詞
+- boundary
+    - noun: 境界
+- over there
+    - あそこに
+- direction
+    - noun: 方向
+    - noun: 行き方
+- adjective
+    - noun: 形容詞
+- despair
+    - noun: 絶望
+    - noun: 失望
+    - verb: 思い切る
+    - verb: ふさぎ込む
+- thirsty
+    - adjective: 喉が渇いた
+- ashamed
+    - adjective: 恥ずかしい
+- embarrassed
+    - adjective: 恥ずかしい
+- shy
+    - adjective: 恥ずかしい
+    - verb: しりごみする
+- bored
+    - adjective: 退屈な
+- annoyed
+    - adjective: いらいらした
+- confused
+    - adjective: 困惑した
+- worried
+    - adjective: 心配して
+- stressed
+    - verb: 強調された
+- guess
+    - verb: 推測
+- affirmative
+    - adjective: 肯定的な
+- describe
+    - verb: 述べる
+- description
+    - noun: 描写
+- proof
+    - noun: 証明
+- singular
+    - adjective: 特異
+    - adjective: 単数の
+- plural
+    - adjective: 複数
+- below
+    - adverb: 以下
+    - preposition: 下
+- adverb
+    - noun: 副詞
+- kind of
+    - … の種類
