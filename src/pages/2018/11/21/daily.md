@@ -45,8 +45,6 @@ date: "2018-11-21T20:50:17+11:00"
     - noun: 比較構文
 - syllable
     - noun: 音節
-- vowel
-    - noun: 母音
 - healthier
     - healthy の比較級
 - heavier
