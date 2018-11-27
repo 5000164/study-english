@@ -1,0 +1,137 @@
+---
+title: "daily study 2018/11/27"
+date: "2018-11-27T23:30:33+11:00"
+---
+
+## Words
+
+- past participle
+    - noun: 過去分詞
+- memorabilia
+    - noun: (有名な人・事件に関連して) 記憶に値する事柄 (記念の品)
+- collect
+    - verb: 集める
+- lyrics
+    - noun: 歌詞
+- extremely
+    - adverb: 極端に
+- valuable
+    - adjective: 高価な
+- autograph
+    - noun: 自筆
+- postage
+    - noun: 郵便料金
+- active
+    - adjective: 活動的な
+- passive
+    - adjective: 受動性の
+- arrest
+    - verb: (法の名のもとに) 逮捕する
+- also
+    - adverb: また
+- iceberg
+    - noun: 氷山
+- sink
+    - verb: 沈む
+- 余り
+    - noun: remainder
+- spot
+    - noun: (特定の) 場所
+    - verb: (… を) 見つける
+- elections
+    - noun: (投票による) 選挙
+- fine
+    - adjective: すばらしい
+- rob
+    - verb: 強奪する
+- possessive
+    - noun: 所有格
+- 布
+    - noun: cloth
+- even
+    - adverb: … でさえ (も)
+- さっき
+    - some time ago
+- upmarket
+    - adjective: 高級市場向けの
+- classy
+    - adjective: 高級な
+- fancy
+    - noun: 空想
+    - adjective: 装飾的な
+- cheap
+    - adjective: 安い
+- pricey
+    - adjective: 値が高い
+- munich
+    - noun: ミュンヘン
+- cemetery
+    - noun: 共同墓地
+- expect
+    - verb: 予期する
+- inferno
+    - noun: 地獄
+- forecast
+    - verb: 予報する
+- invitation
+    - noun: 招待
+- whose
+    - pronoun: だれの
+- ridiculous
+    - adjective: ばかげた
+- capital
+    - noun: 首都
+- centre
+    - noun: 中心
+- どちらでもない
+    - adjective: neither
+- definition
+    - noun: 定義
+- portion
+    - noun: (切り離された) 一部
+- decor
+    - noun: 装飾
+- pull over
+    - 車を道の片側に寄せる
+- skyscraper
+    - 超高層ビル
+- offer
+    - verb: 提供する
+- cruise
+    - verb: 巡航する
+- reasonable
+    - adjective: 道理をわきまえた
+- authentic
+    - adjective: 信ずべき
+- scenic
+    - adjective: 景色の
+- decorator
+    - noun: 装飾者
+- realistic
+    - adjective: 現実主義の
+- vegemite
+    - オーストラリアで生産されている発酵食品
+- spread
+    - verb: 開く
+- fare
+    - noun: 運賃
+- tip
+    - noun: (もののとがった) 先
+- obvious
+    - adjective: 明らかな
+- down town
+    - noun: 都心部
+- souvenir
+    - noun: (旅行・場所・出来事などの思い出となるような) 記念品
+- pretty much
+    - だいたい
+- petrol
+    - noun: ガソリン
+- much
+    - adjective: 多くの
+- too much
+    - (人には) 手に負えないもの
+- travel sick
+    - adjective: 乗り物に酔った
+- manufacture
+    - verb: 製造する
