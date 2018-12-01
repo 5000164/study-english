@@ -1,0 +1,70 @@
+---
+title: "daily study 2018/12/1"
+date: "2018-12-01T23:11:12+11:00"
+---
+
+## Words
+
+- promotion
+    - noun: 昇進
+    - noun: 助長
+    - noun: 販売促進
+- stall
+    - noun: 馬屋
+    - noun: 仕切りになっているもの
+    - noun: 仕切った小部屋
+- worth
+    - adjective: … の価値があって
+- occasionally
+    - adverb: 時折
+- sacked
+    - sack の過去形、または過去分詞
+    - adjective: 暴力によって略奪され、破壊された
+- be sacked
+    - 解雇される
+- designer label
+    - noun: ブランドもの
+- sticky
+    - adjective: ねばねばする
+- divorced
+    - divorce の過去形、または過去分詞
+    - adjective: 離婚した
+- commission
+    - noun: 委任
+    - noun: 任務
+    - noun: 依頼
+    - noun: 委員会
+    - noun: 委員会の人達
+    - noun: 手数料
+    - noun: 委託
+    - verb: 権限を委託する
+- 入学
+    - enter
+        - verb: 入る
+- 苦手
+    - bad
+    - poor
+    - weak
+- comfortable
+    - adjective: 快適な
+- 坊主
+    - noun: buzz cut
+- 保育園
+    - nursery
+- 幼稚園
+    - kindergarten
+- 小学校
+    - primary school
+    - elementary school
+- 中学校
+    - junior high school
+- 高校
+    - high school
+- 大学
+    - university
+- 高専
+    - technical college
+- block letter
+    - ブロック体
+- meme
+    - noun: ある情報がヒトからヒトへ模倣されながら人類の文化を形成していくもの
