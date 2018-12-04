@@ -1,0 +1,195 @@
+---
+title: "daily study 2018/12/4"
+date: "2018-12-04T22:42:41+11:00"
+---
+
+## Words
+
+- depressed
+    - adjective: 消沈した
+- feed
+    - verb: 食物を与える
+    - noun: 食料供給
+- establish
+    - verb: 設立する
+- addiction
+    - noun: ふけること
+- disease
+    - noun: 病気
+- addict
+    - noun: (麻薬などの) 常用者
+- instantly
+    - adverb: 直ちに
+- occasionally
+    - adverb: 時折
+- honest
+    - adjective: 正直な
+- moderate
+    - adjective: 節度のある
+- obsessed
+    - obsess の過去形、または過去分詞
+- obsess
+    - verb: 取りつく
+- quite
+    - adverb: まったく
+- chronological
+    - adjective: 年代順の
+- bits
+    - bit の複数形
+- bit
+    - noun: 小片
+- especially
+    - adverb: 特に
+- get lost
+    - 道に迷う
+- awake
+    - verb: 起こす
+- ambitious
+    - adjective: 大望のある
+- confident
+    - adjective: (… を) 確信して
+- rude
+    - adjective: 失礼な
+- nasty
+    - adjective: 不快な
+- boring
+    - adjective: うんざりするような
+- sociable
+    - adjective: 社交的な
+- adventurous
+    - adjective: 冒険好きな
+- easy-going
+    - adjective: のんきな
+- sensitive
+    - adjective: 敏感な
+- rational
+    - adjective: 理性のある
+- helpful
+    - adjective: 助けになる
+- kind
+    - adjective: 親切な
+- peaceful
+    - adjective: 平和な
+- direct
+    - verb: 指導する
+    - adjective: まっすぐな
+    - adverb: まっすぐに
+- mature
+    - adjective: 分別のある
+- mad
+    - adjective: 気の狂った
+- smiley
+    - adjective: にこにこした
+- afford
+    - verb: 余裕がある
+- appearance
+    - noun: 出現
+- consider
+    - verb: よく考える
+- chatty
+    - adjective: おしゃべりな
+- literature
+    - noun: 文学
+- occupation
+    - noun: 職業
+- definitely
+    - adverb: 明確に
+- school holidays
+    - たぶん夏休みとかの学校の休みのことだと思う
+- relative
+    - adjective: 比較上の
+    - noun: 親戚
+- boiling
+    - adjective: 煮え立つ
+    - boil の現在分詞
+- sneezing
+    - くしゃみ
+    - sneeze の現在分詞
+- electrician
+    - noun: 電気技師
+- second-hand
+    - noun: 秒針
+    - adjective: 中古の
+    - adverb: 中古で
+- whether
+    - conjunction: … かどうか
+- superlatives
+    - noun: 最高の
+    - superlative の複数形
+- appropriately
+    - adverb: 適切に
+- worn
+    - wear の過去分詞
+    - adjective: 使い古した
+- bald
+    - adjective: はげた
+- emptied
+    - empty の過去形、または過去分詞
+- empty
+    - adjective: 中身のない
+    - noun: 空き箱
+    - verb: 空にする
+- lawyer
+    - noun: 弁護士
+- ought to
+    - するべきだ
+- be
+    - verb: (… で) ある
+- been
+    - be の過去分詞
+    - verb: 今までずっと … である
+- supposed
+    - adjective: 想像された、仮定の、うわさの
+- certainty
+    - noun: 確実 (なこと)、確信
+- probability
+    - noun: ありそうなこと、起こりそうなこと
+- possibility
+    - noun: ありうること、可能性、実現性
+- obligation
+    - noun: 義務、義理、恩義、おかげ
+- willingness
+    - noun: 快くすること、いとわないでする心持ち
+- habit
+    - noun: 癖、習慣、… する傾向
+- ability
+    - noun: (… することが) できること
+- permission
+    - noun: 許可、許諾、認可
+- Guess what?
+    - 直訳: 何だと思う？
+    - ニュアンス: ねえ、聞いて聞いて！
+
+## Reading
+
+- I prefer eating hamburgers to food from their country.
+    - 私は彼らの国からの食べ物よりもハンバーガーを食べるほうを好む。
+        - prefer + Object + to + noun
+            - (… より) むしろ (… の) ほうを好む
+- I don't think it fits.
+    - 私はそれが合うとは思わない。
+        - It fits.
+            - それが合う。
+                - fits
+                    - fit の三人称単数現在
+- I think I'll leave it then.
+    - 私はそれを置いていくと思う。
+        - I’ll leave it then.
+            - 私はそれを置いていく。
+                - leave + Object + adverb
+                    - (人・ものを) (… に) 置いていく
+- He doesn't like the people who live in the flat below him.
+    - 彼は彼の下の階に住んでいる人が好きではない。
+        - A live in the flat below him.
+            - A は彼より下の部屋に住んでいます。
+                - flat
+                    - イギリス英語で apartment
+                - flat below
+                    - 下の部屋
+                        - 「… の下に」という意味で基準となる物の真下にない場合に below を使う
+
+## Writing
+
+- I think learning base is different from learning ease.
+    - 私は基礎を学ぶことと簡単なことを学ぶことは違うことだと思う。
+        - 「A is different from B」で「A は B と異なる」という意味になる
