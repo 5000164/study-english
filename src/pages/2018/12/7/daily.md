@@ -1,0 +1,114 @@
+---
+title: "daily study 2018/12/7"
+date: "2018-12-07T23:35:02+11:00"
+---
+
+## Words
+
+- recognize /ˈrɛkəɡnʌɪz/
+    - verb
+        - recognize O
+            - O を (事実 (正当) であると) 認める、認知する、承認する
+- almost /ˈɔːlməʊst/
+    - adverb
+        - ほとんど、もう少しで
+- complement /kάmpləmənt/
+    - noun
+        - 補足して完全にするもの、補足物
+        - 補語
+    - verb
+        - O を補って完全にする、補足する
+- argue /ˈɑːɡjuː/
+    - verb
+        - argue O
+            - O を論じる、論議する
+        - argue O
+            - O を主張する
+- refuse /rɪfjúːz/
+    - verb
+        - refuse O
+            - O を断る、拒絶する、拒否する、辞退する
+- immediately /ɪmíːdiətli/
+    - adverb
+        - 直ちに、早速
+- kidnap /kídn`æp/
+    - verb
+        - (子供を) さらう
+        - (身代金などを目当てに) O (人) を誘拐する
+- kidnapping /kɪ́dnæ̀pɪŋ/
+    - noun
+        - 誘拐
+- dealing /dílɪŋ/
+    - noun
+        - 交際関係、商取引、売買
+        - (他人に対する) ふるまい、仕打ち
+- deal /díːl/
+    - verb
+        - O を分配する、分ける、配る
+        - O に O を配る、分配する
+    - noun
+        - (商売上の) 取引
+- shoplifting /ʃɑ́plɪ̀ftɪŋ/
+    - noun
+        - 万引き
+- dig /díg/
+    - verb
+        - O を (道具・手などを使って) 掘る、掘り起こす
+- alarm goes off
+    - アラームが鳴る
+- take advantage of
+    - (好機・事実) を利用する
+    - (無知など) に乗ずる、(人を) だます、(女) を誘惑する
+- prove /prúːv/
+    - verb
+        - O を (証拠・論証などで) 証明する、O の真実であることを示す
+- DNA
+    - デオキシリボ核酸
+        - 遺伝情報の継承と発現を担う高分子生体物質
+- pretend /prɪténd/
+    - verb
+        - O のふりをする、O を偽って主張する
+- fake /féɪk/
+    - verb
+        - (だます目的で) O (美術品などを) 偽造する
+        - O のふりをする
+    - noun
+        - (いんちきな) 模造品、まやかし物、いんちき、虚報
+    - adjective
+        - 偽の、偽造の
+- midday /míddéɪ/
+    - noun
+        - 正午、真昼
+    - adjective
+        - 正午の、真昼の
+- engaged /ɛnɡéɪdʒd/
+    - adjective
+        - (… に) 従事して、携わって、忙しくして
+        - 婚約中の
+- identical /ɑɪdénṭɪk(ə)l/
+    - adjective
+        - まったく同じ、同一の
+        - (別個のものが) 同じ、等しい
+        - (双生児が) 一卵性の
+- superlative /sʊpˈɚːləṭɪv/
+    - adjective
+        - 最高の、最上の、無比の
+        - 最上級の
+    - noun
+        - 最上級
+- romantic /roʊmˈænṭɪk/
+    - adjective
+        - (人が) 空想にふける、空想的な
+        - 恋愛に夢中の、恋愛に適した
+    - noun
+        - ロマンチックな人
+- juggle /dʒˈʌgl/
+    - verb
+        - (ボール・ナイフ・皿などを) 次々に空中に投げあげて受ける曲芸をする
+    - noun
+        - (投げ物の) 曲芸
+- instrument /ínstrəmənt/
+    - noun
+        - (精密な) 器具、器械、道具
+- musical instrument
+    - 楽器
