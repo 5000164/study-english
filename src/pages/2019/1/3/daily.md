@@ -1,0 +1,92 @@
+---
+title: "daily study 2019/1/3"
+date: "2019-01-03T21:08:38+11:00"
+---
+
+# Words
+
+- resolution /rèzəlúːʃən/
+    - countable noun
+        - 決意、決心 (したこと)
+    - uncountable noun
+        - 決断 (力)、不屈
+        - (要素への) 分解、分析
+        - (問題などの) 解決、解答
+- toast /tˈəʊst/
+    - 1
+        - uncountable noun
+            - 焼きパン
+        - transitive verb
+            - toast + object
+                - (パン・チーズなど) object をきつね色に (こんがりと) 焼く、あぶる
+                - object を火に当てる、火で温める
+        - intransitive verb
+            - toast
+                - こんがりと焼ける
+                - 火に当たる
+    - 2
+        - countable noun
+            - 乾杯、祝杯、乾杯のあいさつ
+            - 乾杯を受ける人、人気者、花形
+        - transitive verb
+            - toast + object
+                - object のために祝杯をあげる、object に乾杯する
+        - intransitive verb
+            - toast (+ to …)
+                - (… に) 乾杯する
+- gather /gˈæðɚ/
+    - transitive verb
+        - gather + object
+            - (散らばっているもの・人) object を (ひとつに) 集める、かき集める
+    - intransitive verb
+        - 集まる
+- belief /bəlíːf/
+    - uncountable noun
+        - 信じること、信念、確信
+        - 信用、信頼
+    - countable noun
+        - 信仰、信条
+- considered /kənsɪ́dɚd/
+    - adjective
+        - 熟考のうえでの
+        - 尊敬される、重きをなす
+- convey /kənˈveɪ/
+    - transitive verb
+        - convey + object
+            - (人・輸送機関などが) (品物・乗客) object を運ぶ、運搬する
+- torture /tˈɔɚtʃɚ/
+    - uncountable noun
+        - 拷問、責め苦
+        - 激しい苦痛、苦悩
+    - countable noun
+        - 拷問の方法
+    - transitive verb
+        - torture + object
+            - (人) object を拷問にかける
+            - (肉体的・精神的に) (人) object に非常な苦痛を与える、苦しめる、悩ます
+            - (庭木など) object を無理に曲げる、ねじる
+            - (言葉・文章など) object をこじつける、曲解する
+- weird /wíɚd/
+    - adjective
+        - (幽霊など超自然的なものを思わせて) 異様な、気味の悪い、この世のものでない
+- tradition /trədíʃən/
+    - uncountable noun
+        - 伝統・慣例、(芸術上の、古来の) 流儀、型
+        - 伝説、言い伝え、口碑
+
+# Reading
+
+- You would find it difficult to live without.
+    - あなたはそれをなしに生きるということを困難だと思うだろう
+        - ここの would は仮定の話
+            - [わかりやすいwouldの意味と使い方 | ネイティブと英語について話したこと](https://talking-english.net/would-will/)
+            - [Wouldの意味と使い方。口語的に考えればこんなに実は簡単！ | 初心者英会話ステーション](https://ajieigo.com/145.html)
+            - [【予想外】ネイティブが使うwouldの本当の意味と便利な使い方 | なでしこさんの英語カレッジ | 実践的な英語が勉強法や英会話、英単語の記事を通して面白く学べるサイト。](http://eigo-nadeshiko.com/would/)
+        - 「find + it + adjective」で「それを adjective と思う」という意味になる
+            - [【英語の解釈】findは「見つける」だけではない？findの意外な使い方｜Lovenglish 世界を広げる英語トレーニング](https://lovenglish.info/blog/basics/find%E3%81%AE%E6%84%8F%E5%A4%96%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/)
+            - [日本人に使われていない「Find」 | 英語学習サイト：Hapa 英会話](https://hapaeikaiwa.com/2016/01/28/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AB%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%80%8Cfind%E3%80%8D/)
+        - ここでの without は live を修飾している副詞
+            - [副詞で英語表現を豊かにしよう - 副詞の種類と位置との関係【ラングランド】](http://www.langland.co.jp/english/column/english-column14.php)
+        - 「to live without」で「なしに生きるということ」という意味になる
+            - to 不定詞の名詞的用法
+        - 「find it difficult to live without」で「それをなしに生きるということを困難だと思う」という意味になる
