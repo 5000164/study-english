@@ -1,0 +1,367 @@
+---
+title: "daily study 2019/1/12"
+date: "2019-01-12T19:33:29+11:00"
+---
+
+# 疑問詞 + do you think + … の文について
+
+- なぜこういう構造になるのかはまだ理解できていない
+- 疑問文にあなたはどう思いますか？という意味を追加することができる
+    - Who made this?
+        - 誰がこれを作りましたか？
+    - Who do you think made this?
+        - あなたは誰がこれを作ったと思いますか？
+- 疑問詞が主語になる場合は疑問詞の後に do you think が入り、疑問詞が目的語になる場合は do you think の後の語順が 主語 + 動詞 になる
+    - Who do you think made this?
+    - Who do you think she met?
+
+## 参考
+
+- 「疑問詞＋do you think ～?」という形の文の語順がよく分かりません。｜英会話｜アルク
+- 学習相談掲示板（英語・第1次筆記試験対策）
+
+# 前置詞と関係代名詞の組み合わせについて
+
+- 前置詞の目的語が目的格の関係代名詞になった時に、前置詞も一緒に前に移動することができる
+    - 下記の文は同じ意味
+        - That is a house which he lives in.
+        - That is a house that he lives in.
+        - That is a house in which he lives.
+            - この場合 in that にすることはできない
+        - That is a house where he lives.
+
+## 参考
+
+- 「前置詞＋関係代名詞」について｜前置詞はどこに置けばいいの？｜ 英語学習ボックス
+- 前置詞＋関係代名詞（in which他）｜英語の文法解説
+- 関係副詞 | ちょいデブ親父の英文法
+
+# no matter + 疑問詞 の使い方
+
+- 「no matter + 疑問詞」で「たとえ … でも」を表現できる
+    - no matter what
+        - たとえ何でも
+        - 何が … しようとも
+    - no matter who
+        - たとえ誰でも
+        - 誰が … しようとも
+    - no matter where
+        - たとえどこでも
+        - どこで … しようとも
+    - no matter when
+        - たとえいつでも
+        - いつ … しようとも
+    - no matter which
+        - たとえどれでも
+        - どれを … しようとも
+    - no matter how
+        - たとえどんなに
+        - どんなに … しようとも
+
+## 参考
+
+- 「no matter + 疑問詞」の使い方Part1 | オンライン英会話Pinas Academy Pinaさんのブログ
+
+# 以上、以下、超え、未満の表現
+
+- 以上
+    - greater than or equal to
+    - more than or equal to
+- 以下
+    - less than or equal to
+- 超え
+    - over
+- 未満
+    - under
+
+## 参考
+
+- 英語で「以上」「以下」「超」「未満」の使い分け - teppeis blog
+
+# Reading
+
+- What is the most exciting thing you have ever done?
+    - あなたがやったことのあるもので最も興奮させるものはなんですか？
+        - シンプルな形にすると「What is A?」になる
+        - 「the most exciting thing you have ever done」は目的格の関係代名詞が省略されている
+            - done が他動詞で目的語を取る
+        - 「the most exciting thing」は「最も興奮させるもの」になり、関係代名詞によって「それがどういうものかというとあなたがやったことがあるもの」という意味が追加される
+- When was the last time you were really bored?
+    - あなたが最後に本当に退屈したのはいつですか？
+        - シンプルな形にすると「When was A?」になる
+        - 「the last time」で副詞句になり「最後の時に」という意味になる
+        - 「you were really bored」が完全な文なので、おそらく that が省略されている that 節になっている
+        - 「the last time (that) you were really bored」で「あなたが最後に本当に退屈した」という意味になる
+- Have you ever been disappointed?
+    - あなたは失望したことがありますか？
+        - 「Have you ever」なので経験を聞いている
+        - 「been」は「go」じゃなくて「be」の過去分詞
+        - disappointed という状態になったことがあるか聞いている
+- Manuals can be confusing.
+    - マニュアルは混乱させることができる。
+        - 助動詞の後には動詞の原形がくるので「can be」になっている
+        - 「Manuals is confusing」で「マニュアルは混乱させる」という意味になるので、「マニュアルは混乱させるという状態にすることができる」という意味になる
+- What is the most embarrassing thing that ever happened to you?
+    - 今まであなたに起こったことで最も恥ずかしいことはなんですか？
+        - シンプルな形にすると「What is A?」になる
+        - 「the most embarrassing thing that ever happened to you」は「最もばつが悪いこと」に主格の関係代名詞で「あなたに起こったことで」という説明が追加されている
+            - 「ever」は副詞で「これまで」という意味になり「happened」を修飾している
+            - 「happened」は自動詞「happen」の過去形で「a thing happened to you」で「あなたに起こったこと」という意味になる
+- What gets you excited?
+    - なにがあなたを興奮させますか？
+        - 「What gets you …」で「なにがあなたを … させる」という意味になる
+            - [第100回 Figures of speech その3　What gets you up in the morning? - ハイキャリア](https://www.hicareer.jp/inter/businessenglish/608.html)
+- What do you find amusing?
+    - あなたは何がおもしろいと思いますか？
+        - ここでの「find」は「… と思う、感じる」という意味
+            - [「How do you find ～?」の2つの意味とは？「find」を使ったややこしい英語表現 | オンライン英会話コラム](https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/how-do-you-find)
+            - [【英語の解釈】findは「見つける」だけではない？findの意外な使い方｜Lovenglish 世界を広げる英語トレーニング](https://lovenglish.info/blog/basics/find%E3%81%AE%E6%84%8F%E5%A4%96%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/)
+        - 他動詞「find」の目的格の疑問代名詞「what」が「amusing」で修飾されている
+
+# Words
+
+- amused /əmjúzd/
+    - adjective
+        - amused
+            - (表情など) おもしろがっている (ような)、おかしそうな
+    - predicative adjective
+        - amused + at, with, by + …
+            - … をおもしろがって、楽しんで
+        - amused + to infinitive
+            - … しておもしろく思って
+- amusing /əmjúːzɪŋ/
+    - adjective
+        - amusing
+            - 人をおもしろくさせる、おもしろい、楽しい、おかしい
+- frustrated /ˈfɻʌstɻeɪɾɪd/
+    - adjective
+        - frustrated
+            - 欲求不満の、いらいらした、挫折した
+- frustrating /frˈʌstreɪṭɪŋ/
+    - adjective
+        - frustrating
+            - 挫折感を抱かせるような、いらだたしい
+- bored /bɔ́rd/
+    - adjective
+        - bored
+            - うんざりした、退屈した
+- boring /bˈɔːrɪŋ/
+    - 1
+        - adjective
+            - boring
+                - うんざりするような
+    - 2
+        - uncountable noun
+            - 穿孔、中ぐり、穿孔作業
+        - countable noun
+            - 穿孔であけた穴
+        - adjective
+            - 穴あけ用の、ボーリングの
+- depressed /dəˈprɛst/
+    - adjective
+        - depressed
+            - (意気) 消沈した
+            - 中央が凹んだ
+            - 不景気な、不振の、(株が) 下落した
+            - 貧困な、窮乏の
+            - (動・植物が) 平たい
+        - depressed + about + …
+            - … に意気消沈して
+- depressing /dɪprɛ́sɪŋ/
+    - adjective
+        - depressing
+            - 気のめいる、憂鬱な、うっとうしい
+- fascinated /fǽsənèɪtəd/
+    - adjective
+        - fascinated
+            - 魅了された
+            - うっとりした
+- fascinating /fˈæsənèɪṭɪŋ/
+    - adjective
+        - fascinating
+            - 魅惑的な、うっとりさせる (ような)、すごくおもしろい (美しい)
+- confused /kənfjúːzd/
+    - adjective
+        - confused
+            - 混乱した、ごちゃごちゃの
+            - 途方に暮れた、あわてた
+    - predicative adjective
+        - confused + at, by + …
+            - … に困惑して、まごついて
+- confusing /kənfjúːzɪŋ/
+    - adjective
+        - confusing
+            - 混乱させる (ような)、ろうばいさせる
+- exhausted /ɪɡzɔ́stəd/
+    - adjective
+        - exhausted
+            - 使い尽くされた、消耗した、枯渇した
+            - (井戸など) 汲み干した、水の枯れた
+            - 疲れ切った、へとへとになった
+    - predicative adjective
+        - exhausted + by, from, with + …
+            - … で疲れ切って、へとへとになって
+- exhausting /ɪɡzɔ́stɪŋ/
+    - adjective
+        - exhausting
+            - (心身を) 疲れさせる、消耗させる
+- alarmed /əlɑ́rmd/
+    - predicative adjective
+        - alarmed + at, by, about + …
+            - … に恐れて、不安を感じて
+- alarming /əlɑ́rmɪŋ/
+    - adjective
+        - alarming
+            - 不安にさせる、大変な
+- frightened /frάɪtnd/
+    - adjective
+        - frightened
+            - おびえた、ぎょっとした
+    - predicative adjective
+        - frightened + by, at + …
+            - … に怖がって、ぎょっとして
+        - frightened + to infinitive
+            - … して怖がって、ぎょっとして
+        - frightened + that + …
+            - … ということに怖がって、ぎょっとして
+- frightening /fráɪtənɪŋ/
+    - adjective
+        - frightening
+            - ぎょっとさせる、驚くべき
+- embarrassed /ɪmˈbær.əst/
+    - adjective
+        - embarrassed
+            - きまり悪がる、当惑した、困った
+    - predicative adjective
+        - embarrassed + at, by, with, for + …
+            - … にきまり悪い思いをして、まごついて、困って
+        - embarrassed
+            - (金銭的に) 困って、借金を負って
+- embarrassing /ɪmbɛ́rəsɪŋ/
+    - adjective
+        - embarrassing
+            - きまり悪がらせるような、ばつの悪い、当惑させるような、やっかいな、困った
+                - 人前で恥をかく、恥ずかしい
+- excited /eksάɪṭɪd/
+    - adjective
+        - excited
+            - 興奮した
+    - predicative adjective
+        - excited + at, about, by + …
+            - ... に興奮して
+        - excited + to infinitive
+            - … して興奮して
+- exciting /eksάɪṭɪŋ/
+    - adjective
+        - exciting
+            - 興奮させる、はらはらするような、わくわくする
+- disappointed /dìsəpˈɔɪnṭɪd/
+    - adjective
+        - disappointed
+            - 失望した
+            - (希望・期待など) 当てはずれの
+    - predicative adjective
+        - disappointed + at, in, with, about + …
+            - … にがっかりして、失望して
+        - disappointed + to infinitive
+            - … してがっかりして、失望して
+        - disappointed + that + …
+            - … ということにがっかりして、失望して
+        - disappointed + of + …
+            - … がはずれて
+- disappointing /dìsəpˈɔɪnṭɪŋ/
+    - adjective
+        - disappointing
+            - がっかりさせる、案外の、つまらない
+- surprised /sɚprάɪzd/
+    - adjective
+        - surprised
+            - 驚いた、びっくりした
+    - predicative adjective
+        - surprised + at, by + …
+            - … に驚いて、びっくりして
+        - surprised + to infinitive
+            - … して驚いて、びっくりして
+        - surprised + that + …
+            - … ということに驚いて、びっくりして
+        - surprised + wh + …
+            - … かに驚いて、びっくりして
+- surprising /sɚprάɪzɪŋ/
+    - adjective
+        - suprising
+            - 驚くべき、意外な
+- tired /tάɪɚd/
+    - adjective
+        - tired
+            - 疲れた
+            - (しゃれなど) 陳腐な、古くさい
+            - (ものが) くたびれた、古ぼけた
+    - predicative adjective
+        - tired + from + …
+            - … で疲れて、くたびれて
+        - tired
+            - 飽きて、いやになって
+        - tired + of + noun
+            - noun にあきて、noun がいやになって
+- tiring /táɪrɪŋ/
+    - adjective
+        - tiring
+            - (仕事などが) 疲れる、骨の折れる、退屈な、やっかいな、うるさい
+- shocked /ʃɒkt/
+    - attributive adjective
+        - shocked
+            - 衝撃を受けた、あきれかえった
+    - predicative adjective
+        - shocked + at + …
+            - … に衝撃を受けて
+        - shocked + to infinitive
+            - … してぎょっとして
+        - shocked + that + …
+            - … ということでショックを受けて
+- shocking /ʃɑ́kɪŋ/
+    - adjective
+        - shocking
+            - ぞっとするような、衝撃的な、ショッキングな
+            - けしからぬ、不都合な
+- terrified /tɛ́rəfàɪd/
+    - adjective
+        - terrified
+            - 恐れた、怖がった、おびえた
+    - predicative adjective
+        - terrified + at, by, of + …
+            - … を恐れて
+        - terrified + that + …
+            - … することを恐れて
+- terrifying /tɛ́rəfàɪɪŋ/
+    - adjective
+        - terrifying
+            - 恐るべき、ぞっとするような
+- disgusted /dɪsgʌ́stɪd/
+    - adjective
+        - disgusted
+            - 嫌気がさした、むかむかした、うんざりした
+- disgusting /dɪsɡʌ́stɪŋ/
+    - adjective
+        - disgusting
+            - 胸が悪くなるような、実に嫌な
+- puzzled /pˈʌzld/
+    - adjective
+        - puzzled
+            - 当惑した、困惑した
+    - predicative adjective
+        - puzzled + to infinitive
+            - … して当惑して、途方に暮れて
+        - puzzled + that + ….
+            - … といって当惑して、途方に暮れて
+- puzzling /pʌ́zəlɪŋ/
+    - adjective
+        - puzzling
+            - まごつかせる、困らせる
+- seem /síːm/
+    - intransitive verb
+        - seem + …
+            - (人・ものが) … であるように見える、思われる、… らしい
+        - seem + to be doing + …
+            - (人・ものが) … しているように見える、思われる
+        - seem + to infinitive
+            - (人・ものが) … するように思われる、… するらしい
